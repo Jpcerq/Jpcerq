@@ -17,7 +17,7 @@ Peer-to-peer file transfer PWA over WebRTC, with no server-side storage. It has 
 
 `Node.js` `WebRTC` `WebSocket` `Docker`
 
-### [Exploration robot (IoT)](https://github.com/Jpcerq/projetos_IOT)
+### [Exploration robot (IoT)](https://github.com/Jpcerq/robo-explorador-iot)
 ESP32-S3 robot controlled over MQTT, with sensor telemetry stored through a Flask and SQLite API. Team project.
 
 `ESP32` `MQTT` `Flask` `SQLite`
